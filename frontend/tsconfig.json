@@ -6,6 +6,8 @@
     "strict": true,
     "moduleResolution": "node",
     "baseUrl": "src",
-    "paths": {}
+    "paths": {},
+    "types": ["vite/client"],
+    "skipLibCheck": true
   }
 }
