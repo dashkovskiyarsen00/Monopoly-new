@@ -1,0 +1,1 @@
+// Matchmaking panel component placeholder

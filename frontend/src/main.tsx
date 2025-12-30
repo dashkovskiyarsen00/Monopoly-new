@@ -1,0 +1,1 @@
+// React root render placeholder

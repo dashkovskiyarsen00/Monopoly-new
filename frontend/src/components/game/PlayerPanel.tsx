@@ -1,0 +1,1 @@
+// Player panel component placeholder

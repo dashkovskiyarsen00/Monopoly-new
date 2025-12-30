@@ -1,0 +1,1 @@
+// Chat panel component placeholder

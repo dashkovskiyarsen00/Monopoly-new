@@ -1,0 +1,1 @@
+// Shop item model placeholder

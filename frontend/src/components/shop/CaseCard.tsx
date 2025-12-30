@@ -1,0 +1,1 @@
+// Case card component placeholder

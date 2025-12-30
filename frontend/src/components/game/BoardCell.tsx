@@ -1,0 +1,1 @@
+// Board cell component placeholder

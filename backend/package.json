@@ -1,0 +1,10 @@
+{
+  "name": "monopoly-backend",
+  "version": "0.0.1",
+  "main": "dist/server.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  }
+}

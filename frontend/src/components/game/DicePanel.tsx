@@ -1,0 +1,1 @@
+// Dice panel component placeholder

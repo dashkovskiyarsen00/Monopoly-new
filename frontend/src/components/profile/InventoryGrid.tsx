@@ -1,0 +1,1 @@
+// Inventory grid component placeholder
